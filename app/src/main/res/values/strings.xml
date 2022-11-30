@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">HTTP-JSON-2324</string>
+    <string name="nom">Nom:&#160;</string>
+    <string name="planeta">Planeta:&#160;</string>
+    <string name="btnList">ListView</string>
+    <string name="btnCard">CardView</string>
+    <string name="btnRecycler">RecyclerView</string>
+    <string name="btnGet">Click</string>
+    <string name="noInternet">No hi ha connexió</string>
+</resources>
